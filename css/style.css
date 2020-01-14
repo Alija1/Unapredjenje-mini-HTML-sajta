@@ -29,8 +29,7 @@ nav {
     padding: 0;
   }
 
-  li a {
-    clear: both;
+a {
     white-space: nowrap;
   }
 

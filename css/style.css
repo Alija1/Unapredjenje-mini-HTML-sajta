@@ -30,6 +30,7 @@ nav {
   }
 
 a {
+    clear: both;
     white-space: nowrap;
   }
 

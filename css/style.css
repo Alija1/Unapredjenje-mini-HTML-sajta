@@ -5,10 +5,12 @@ body {
 
 #main {
     float: right;
+    padding: 10px;
     width: 65%;
 }
 
 #sidebar {
+    display: inline-block;
     width: 35%;
 }
 

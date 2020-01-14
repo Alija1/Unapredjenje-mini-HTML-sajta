@@ -31,8 +31,6 @@ nav {
 
   li a {
     clear: both;
-    display: inline-block;
-    overflow: hidden;
     white-space: nowrap;
   }
 

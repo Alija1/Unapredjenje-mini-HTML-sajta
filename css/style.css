@@ -9,7 +9,6 @@ body {
 }
 
 #sidebar {
-    clear: none;
     width: 35%;
 }
 
@@ -35,7 +34,7 @@ nav {
   }
 
 #row {
-    vertical-align: top;
-    width: 960px;
-    margin: 20px auto;
-  }
+    content: "";
+    display: table;
+    clear: both;
+ }

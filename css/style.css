@@ -4,12 +4,12 @@ body {
   }
 
 #main {
-    float: left;
+    display: inline-block;
     width: 65%;
 }
 
 #sidebar {
-    float: left;
+    display: inline-block;
     width: 35%;
 }
 

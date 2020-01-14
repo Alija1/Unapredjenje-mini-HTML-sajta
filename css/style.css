@@ -30,7 +30,10 @@ nav {
   }
 
   li a {
-    display: block;
+    clear: both;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
   }
 
 #row {

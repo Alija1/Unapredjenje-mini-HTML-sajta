@@ -23,11 +23,6 @@ nav {
     padding: 16px 0 16px 0;
   }
  
-  ul {
-    margin: 0;
-    padding: 0;
-  }
-
 a {
     clear: both;
     overflow: hidden;
@@ -37,5 +32,4 @@ a {
 #row {
     content: "";
     display: table;
-    clear: both;
  }

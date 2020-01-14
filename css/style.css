@@ -30,7 +30,6 @@ nav {
   }
 
 a {
-    clear: both;
     display: block;
     overflow: hidden;
     white-space: nowrap;

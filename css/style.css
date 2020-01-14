@@ -1,50 +1,11 @@
-body {
-    display: inline-block;
-    width: 960px;
-    margin: 20px auto;
-  }
+#main {
 
-  nav {
-    padding: 16px 0 16px 0;
-    border-bottom: 1px solid gray;
-  }
-
-  h1 {
-    display: inline-block;
-    width: 600px;
-    padding: 0 8px 0 0;
-    border-right: 1px solid gray;
-    margin-bottom: 8px;
+    float: right;
 }
 
-  figure {
-    display: inline-block;
-    width: 600px;
-    padding: 0 8px 0 0;
-    border-right: 1px solid gray;
-    margin-bottom: 8px;
+#sidebar {
+    
+    clear: left;
+
 }
 
-  footer {
-    padding: 16px 0 16px 0;
-    border-top: 1px solid gray;
-  }
-
-  a {
-    display: inline;
-    margin-right: 6px;
-  }
-  aside {
-    display: block;
-    float: left;
-    width: 343px;
-    padding: 0 0 0 8px;
-  }
-
-  section {
-    display: inline-block;
-    width: 600px;
-    padding: 0 8px 0 0;
-    border-right: 1px solid gray;
-    margin-bottom: 8px;
-}

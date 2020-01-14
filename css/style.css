@@ -9,7 +9,7 @@ body {
 }
 
 #sidebar {
-    clear: both;
+    clear: none;
     width: 35%;
 }
 

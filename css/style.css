@@ -9,8 +9,9 @@ body {
 }
 
 #sidebar {
-    clear: right;
-    vertical-align: top;
+    content: "";
+    display: table;
+    clear: both;
 }
 
 #footer {

@@ -9,7 +9,7 @@ body {
 }
 
 #sidebar {
-    display: inline-block;
+    float: left;
     width: 35%;
 }
 

@@ -36,3 +36,9 @@ nav {
     display: block;
     width: 60px;
   }
+
+#row {
+    float: left;
+    padding: 10px;
+    height: 300px;
+}

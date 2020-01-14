@@ -30,7 +30,7 @@ nav {
   }
 
 a {
-    display: block;
+    display: inline-block;
     overflow: hidden;
     white-space: nowrap;
   }

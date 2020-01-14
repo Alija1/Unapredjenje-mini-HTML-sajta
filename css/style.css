@@ -4,7 +4,7 @@ body {
   }
 
 #main {
-    display: inline-block;
+    float: right;
     width: 600px;
     padding: 0 8px 0 0;
     border-right: 1px solid gray;
@@ -12,6 +12,7 @@ body {
 }
 
 #sidebar {
+    clear: right;
     display: inline-block;
     width: 343px;
     vertical-align: top;

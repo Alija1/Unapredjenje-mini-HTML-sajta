@@ -1,23 +1,19 @@
 body {
-    display: inline-block;
     width: 960px;
     margin: 20px auto;
   }
 
   header {
-    display: inline-block;
     border-bottom: 1px solid gray;
     padding: 8px 0 8px 0;
   }
 
   nav {
-    display: inline-block;
     padding: 16px 0 16px 0;
     border-bottom: 1px solid gray;
   }
 
   footer {
-    display: inline-block;
     padding: 16px 0 16px 0;
     border-top: 1px solid gray;
   }
@@ -29,9 +25,14 @@ body {
   aside {
     display: block;
     float: left;
+    width: 343px;
+    padding: 0 0 0 8px;
   }
 
   section {
     display: inline-block;
-    margin-right: 20px;
+    width: 600px;
+    padding: 0 8px 0 0;
+    border-right: 1px solid gray;
+    margin-bottom: 8px;
 }

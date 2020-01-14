@@ -4,6 +4,7 @@ body {
   }
 
 #main {
+    float: right;
     width: 65%;
 }
 
@@ -18,7 +19,6 @@ body {
   }
 
 nav {
-    clear: right;
     padding: 16px 0 16px 0;
     vertical-align: top;
   }
@@ -33,9 +33,3 @@ nav {
     display: block;
     width: 60px;
   }
-
-#row {
-    float: left;
-    padding: 10px;
-    height: 300px;
-}

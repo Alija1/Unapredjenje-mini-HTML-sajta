@@ -21,7 +21,6 @@ body {
 
 nav {
     padding: 16px 0 16px 0;
-    vertical-align: top;
   }
  
   ul {
@@ -33,4 +32,10 @@ nav {
   li a {
     display: block;
     width: 60px;
+  }
+
+#row {
+    vertical-align: top;
+    width: 960px;
+    margin: 20px auto;
   }

@@ -12,9 +12,10 @@ body {
     clear: right;
     content: "";
     display: table;
+    vertical-align: top;
 }
 
-footer {
+#footer {
     padding: 16px 0 16px 0;
     border-top: 1px solid gray;
     margin: 20px auto;

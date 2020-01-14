@@ -4,7 +4,7 @@ body {
   }
 
 #main {
-    float: left;
+    clear: none;
     padding: 10px;
     width: 65%;
 }

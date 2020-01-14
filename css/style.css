@@ -4,14 +4,11 @@ body {
   }
 
 #main {
-    float: right;
     width: 65%;
 }
 
 #sidebar {
-    content: "";
-    display: table;
-    clear: both;
+    width: 35%;
 }
 
 #footer {

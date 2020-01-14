@@ -1,13 +1,16 @@
+body {
+    width: 960px;
+    margin: 20px auto;
+  }
+
 #main {
 
-    display: block;
     float: right;
 
 }
 
 #sidebar {
 
-    display: block;
     clear: right;
 
 }

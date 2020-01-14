@@ -9,6 +9,7 @@ body {
 }
 
 #sidebar {
+    clear: both;
     width: 35%;
 }
 

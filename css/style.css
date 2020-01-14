@@ -10,7 +10,7 @@ body {
 
 #sidebar {
     clear: right;
-
+    vertical-align: top;
 }
 
 #footer {

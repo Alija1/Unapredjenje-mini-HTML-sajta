@@ -5,13 +5,11 @@ body {
 
 #main {
     float: left;
-    padding: 10px;
     width: 65%;
 }
 
 #sidebar {
     float: left;
-    padding: 10px;
     width: 35%;
 }
 

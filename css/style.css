@@ -15,14 +15,12 @@ body {
 
 #footer {
     padding: 16px 0 16px 0;
-    border-top: 1px solid gray;
     margin: 20px auto;
   }
 
 nav {
     clear: right;
     padding: 16px 0 16px 0;
-    border-bottom: 1px solid gray;
     vertical-align: top;
   }
  

@@ -1,15 +1,18 @@
 body {
-    display: inline-block;
+
     margin: 20px auto;
   }
 
 #main {
 
+    display: block;
     float: right;
+
 }
 
 #sidebar {
-
+    
+    display: block;
     clear: left;
 
 }

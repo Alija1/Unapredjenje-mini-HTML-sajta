@@ -10,9 +10,7 @@ body {
 
 #sidebar {
     clear: right;
-    content: "";
-    display: table;
-    vertical-align: top;
+
 }
 
 #footer {
@@ -22,8 +20,10 @@ body {
   }
 
 nav {
+    clear: right;
     padding: 16px 0 16px 0;
     border-bottom: 1px solid gray;
+    vertical-align: top;
   }
  
   ul {

@@ -5,18 +5,13 @@ body {
 
 #main {
     float: right;
-    width: 600px;
-    padding: 0 8px 0 0;
-    border-right: 1px solid gray;
-    margin-bottom: 8px;
+    width: 65%;
 }
 
 #sidebar {
     clear: right;
-    display: inline-block;
-    width: 343px;
-    vertical-align: top;
-    padding: 0 0 0 8px;
+    content: "";
+    display: table;
 }
 
 footer {
